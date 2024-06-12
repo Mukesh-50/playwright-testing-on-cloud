@@ -40,6 +40,16 @@ Get your username and access key from lambdatest and replace in "login.spec.js" 
 
 You can get username and access key from capability generator or from account seetings.
 
+Set LT_USERNAME and LT_ACCESS_KEY in environment variable </br></br>
+Windows</br>
+set LT_USERNAME="YOUR_LAMBDATEST_USERNAME"</br>
+set LT_ACCESS_KEY="YOUR_LAMBDATEST_ACCESS_KEY" 
+
+</br>
+
+MAC and Linux </br>
+export LT_USERNAME="YOUR_LAMBDATEST_USERNAME" </br>
+export LT_ACCESS_KEY="YOUR_LAMBDATEST_ACCESS_KEY" </br>
 
 
 ![Capability Generator](https://github.com/Mukesh-50/automation-testing-on-cloud-demo/assets/7221229/781aabaa-67eb-4b12-b0f8-f16bc9748d73)
@@ -57,6 +67,6 @@ You can get username and access key from capability generator or from account se
 ```
   cd PlaywrightLT
 
-  node tests/login.spec.js
+  npx playwright test
 ```
 
