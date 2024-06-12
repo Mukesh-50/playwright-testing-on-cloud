@@ -16,4 +16,5 @@ module.exports = defineConfig({
       ...capability['LT:Options'],
     },
   })),
+  workers: 3
 });
