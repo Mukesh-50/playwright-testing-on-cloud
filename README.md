@@ -24,12 +24,12 @@ Execute your Playwright automated test across 3000 + browsers, devices and platf
 
 [Create Your Own LambdatTest Account](https://accounts.lambdatest.com/register?utm_source=YouTube&utm_medium=Organic&utm_campaign=Oct30&utm_term=mo&utm_content=LT_Sign_Up)
 
-[Clone This Repository](https://github.com/Mukesh-50/playwright-testing-on-cloud-pom.git)
+[Clone This Repository](https://github.com/Mukesh-50/playwright-testing-on-cloud.git)
 
 [Capability Generator](https://www.lambdatest.com/capabilities-generator/)
 
 ```
-git clone https://github.com/Mukesh-50/playwright-testing-on-cloud-pom.git
+git clone https://github.com/Mukesh-50/playwright-testing-on-cloud.git
 ```
 
 
